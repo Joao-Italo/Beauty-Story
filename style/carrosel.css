@@ -22,8 +22,8 @@ ins {
 
 }
 .img__produto{
-    width: 150px;
-    height:150px;
+    width: 125px;
+    height: auto;
     border-radius: 15px;
 }
 .swiper-button-prev,
