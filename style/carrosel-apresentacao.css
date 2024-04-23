@@ -14,7 +14,7 @@
 @media screen and (min-width: 1024px){
     .img__apresentacao{
         max-width: 100%;
-        max-height: 350px;
+        max-height: 600px;
         object-fit: cover;
     }
     .carrosel-apresentacao{
@@ -23,6 +23,7 @@
     }
     .carrossel__container-apresentacao{
         width: 80vw;
+        height: 30vw;
         display: flex;
         justify-content: center;
         border-radius: 15px;
@@ -33,7 +34,4 @@
         height: auto;
         
     }
-}
-@media screen and (min-width: 1728px){
-
 }
