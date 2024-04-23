@@ -1,0 +1,33 @@
+@import url("style/header.css");
+@import url("style/carrosel.css");
+@import url("style/footer.css");
+@import url("style/banner.css");
+@import url("style/carrosel-apresentacao.css");
+@import url("style/card.css");
+@import url("style/topicos.css");
+@import url("style/contato.css");
+
+
+
+
+:root{
+    --cor-fundo: linear-gradient(to bottom left,#Ffffff, #e5dede);
+    --cor-fundo-vermelho: linear-gradient(to bottom left,#fd7b7b,#ee4242);
+    --cor-branco-opaco: #eae6e3;
+    --cor-verde-medio: linear-gradient(#FFC0CB, #FFFFFF);
+    --cor-prateado: linear-gradient(to top left,#808080,#0f518c);
+    --cor-azul-icones: #0F518C;
+    --fonte-principal: "montserrat", sans-serif;
+    --fonte-titulo: "Domine",serif;
+    --branco: #fffff9;
+    --preto: #000000;
+
+
+   
+}
+body{
+    background: var(--cor-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
